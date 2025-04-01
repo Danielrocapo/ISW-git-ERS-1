@@ -1,3 +1,10 @@
-*** Consumo de noticias personalizadas: como usuario quiero recibir un flujo de videos de noticias breves basado en mis intereses, para poder estar informado de manera rapida y eficiente sobre lo que mas me importa. 
-*** interaccion con contenido: como usuario, quiero poder dar "like", comentar y compartir las noticias breves para interactuar con otros usuarios y expresr mi opinion sobre los temas que me interesan.
-*** Control del tiempo de visualizacion: como usuario quiero tener la opcion de limitar mi tiempo de navegacion diaria en la app, para evitar distraerme demasiado y gestionar mi tiempo efectivamente mientras me mantengo informado. 
+*** Consumo de noticias personalizadas: como usuario quiero recibir un flujo de videos de noticias breves basado en mis intereses, para poder estar informado de manera rapida y eficiente sobre lo que mas me importa.
+    criterio de aceptacion: el flujo de videos solo incluye noticias relevantes para el usuario. 
+
+
+*** interaccion con contenido: como usuario, quiero poder dar "like" las noticias breves para interactuar con otros usuarios y expresr mi opinion sobre los temas que me interesan.
+    criterio de aceptacion:el usuario podra dar "like" y este se mostrara en un contador visible en el video.
+
+
+*** Control del tiempo de visualizacion: como usuario quiero tener la opcion de limitar mi tiempo de navegacion diaria en la app, para evitar distraerme demasiado y gestionar mi tiempo efectivamente mientras me mantengo informado.
+    criterio de aceptacion:la app bloquea el acceso al feed cuando el usuario supera el limite de horas diarias. 
